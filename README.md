@@ -1,9 +1,15 @@
 ### Hi there 👋
+I'm Daniil, I'm 17 years old.
+
+I teach English, Python code and Linux cmd.
+
+Plans to become a backender.
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=DaniilAmoshiy1&count_private=true&show_icons=true&include_all_commits=true)
 
 <!--
 **DaniilAmoshiy1/DaniilAmoshiy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
