@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Daniil, I'm 17 years old.
+I'm Daniil.
 
 I learn English, Python code and Linux cmd.
 
