@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Daniil, I'm 17 years old.
 
-I teach English, Python code and Linux cmd.
+I learn English, Python code and Linux cmd.
 
 Plans to become a backender.
 
