@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile!! 🐈‍⬛
 I'm Daniil.
 
 I learn English, Python code and Linux cmd.
@@ -7,7 +7,9 @@ Plans to become a backender.
 
 [![Telegram Badge](https://img.shields.io/badge/-Daniil-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/Jluc_X)](https://www.t.me/Jluc_X)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DaniilAmoshiy1&count_private=true&show_icons=true&include_all_commits=true)
+![stats GitHub](https://github-readme-stats.vercel.app/api?username=DaniilAmoshiy1&count_private=true&theme=midnight-purple&show_icons=true&include_all_commits=true)
+
+
 
 <!--
 **DaniilAmoshiy1/DaniilAmoshiy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
