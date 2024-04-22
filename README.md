@@ -1,9 +1,11 @@
 ### Welcome to my profile!! 🐈‍⬛
 I'm Daniil.
 
-I learn English, Python code and Linux cmd.
+I learn English, Python and Linux cmd.
 
-Plans to become a backender.
+My education: Secondary education, Python courses(intro).
+
+Plans to become a backender, this direction is very interesting to me, because I like websites.
 
 [![Telegram Badge](https://img.shields.io/badge/-Daniil-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/Jluc_X)](https://www.t.me/Jluc_X)
 
