@@ -9,7 +9,7 @@ Plans to become a backender, this direction is very interesting to me, because I
 
 [![Telegram Badge](https://img.shields.io/badge/-Daniil-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/Jluc_X)](https://www.t.me/Jluc_X)
 
-![stats GitHub](https://github-readme-stats.vercel.app/api?username=DaniilAmoshiy1&count_private=true&theme=midnight-purple&show_icons=true&include_all_commits=true)
+![stats GitHub](https://github-readme-stats.vercel.app/api?username=DaniilAmoshiy1&count_private=true&include_all_commits=true&theme=midnight-purple&show_icons=true)
 
 
 
