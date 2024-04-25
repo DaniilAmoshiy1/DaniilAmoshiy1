@@ -8,21 +8,28 @@
   <img src="https://99px.ru/sstorage/86/2020/03/image_860403200641339903544.gif" />
 </p>
 
+<p align="center">※━─━────━─━────━─━────━─━────【₪】────━─━────━─━────━─━────━─━※</p>
+
 
 #### <p align="center">My education📚: </p>
-<p align="center">Secondary education, Python</p>
+<p align="center">Secondary education, introduction to Python</p>
 
 
-#### My plans🌟:
-Become a backender💻, learn to play the guitar🎸.
+#### <p align="center">My plans🌟:</p>
+<p align="center">Become a backender💻, learn to play the guitar🎸.</p>
 
-#### Contact me💬:
+<p align="center">※━─━────━─━────━─━────━─━────【₪】────━─━────━─━────━─━────━─━※</p>
 
-[![Telegram Badge](https://img.shields.io/badge/-Daniil-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/Jluc_X)](https://www.t.me/Jluc_X)
-
+### <p align="center">Contact with me💬</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaniilAmoshiy1&count_private=true&include_all_commits=true&theme=midnight-purple&show_icons=true" />
+  <a href="https://www.t.me/Jluc_X">
+    <img src="https://img.shields.io/badge/Telegram-Daniil-blue?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram Badge">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaniilAmoshiy1&include_all_commits=true&count_private=true&theme=midnight-purple&show_icons=true" />
 </p>
 
 
