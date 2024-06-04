@@ -1,7 +1,7 @@
 ### <p align="center">Welcome to my profile!! 🐈‍⬛</p>
 <p align="center">I'm Daniil.</p>
 
-#### <p align="center">I'm learning now📖:</p>
+#### <p align="center">I'm ongoing now📖:</p>
 <p align="center">English, Python(continuing) and Linux cmd.</p>
 
 <p align="center">
