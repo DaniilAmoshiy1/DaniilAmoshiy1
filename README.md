@@ -16,7 +16,7 @@
 
 
 #### <p align="center">My plans🌟:</p>
-<p align="center">Become a backender💻, learn to play the guitar🎸.</p>
+<p align="center">Become a python backender💻.</p>
 
 <p align="center">※━─━────━─━────━─━────━─━────【₪】────━─━────━─━────━─━────━─━※</p>
 
