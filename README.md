@@ -2,7 +2,7 @@
 <p align="center">I'm Daniil.</p>
 
 #### <p align="center">I'm ongoing now📖:</p>
-<p align="center">English, Python(continuing) and Linux cmd.</p>
+<p align="center">English(my lvl A2), Python(backend).</p>
 
 <p align="center">
   <img src="https://99px.ru/sstorage/86/2020/03/image_860403200641339903544.gif" />
