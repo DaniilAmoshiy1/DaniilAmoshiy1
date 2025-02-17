@@ -2,7 +2,7 @@
 <p align="center">I'm Daniil.</p>
 
 #### <p align="center">I'm ongoing now📖:</p>
-<p align="center">English(my lvl A2), Python(backend).</p>
+<p align="center">English(my lvl B1), Python(backend).</p>
 
 <p align="center">
   <img src="https://99px.ru/sstorage/86/2020/03/image_860403200641339903544.gif" />
@@ -12,11 +12,11 @@
 
 
 #### <p align="center">My education📚: </p>
-<p align="center">Secondary education, introduction to Python</p>
+<p align="center">Secondary education, introduction to Python & professional.</p>
 
 
 #### <p align="center">My plans🌟:</p>
-<p align="center">Become a python backender💻.</p>
+<p align="center">Find the job(python backend).</p>
 
 <p align="center">※━─━────━─━────━─━────━─━────【₪】────━─━────━─━────━─━────━─━※</p>
 
